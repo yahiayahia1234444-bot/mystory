@@ -1,0 +1,17 @@
+{
+  "versionName": "1.1",
+  "versionCode": 2,
+  "changelog": {
+    "ar": "• نظام تحديث داخلي ذكي ومباشر دون الحاجة لمتجر Google Play\n• إمكانية تحديث ومزامنة قصص جديدة عبر الهواء (OTA)\n• تحسين أداء قارئ القصص وإضافة فصول جديدة\n• دعم كامل للغات الأربع مع الحفاظ على كافة البيانات المحلية",
+    "en": "• In-app update system without Google Play dependency\n• Over-The-Air (OTA) dynamic story catalog updates\n• Story reader performance enhancements and chapter splitting\n• Full multi-language support while preserving user data",
+    "fr": "• Système de mise à jour intégrée sans passer par Google Play\n• Mises à jour dynamiques du catalogue d'histoires (OTA)\n• Améliorations du lecteur et des chapitres\n• Sauvegarde intégrale des données utilisateur",
+    "es": "• Sistema de actualización directa en la aplicación sin Google Play\n• Actualizaciones dinámicas de historias por el aire (OTA)\n• Mejoras en el lector de historias y división de capítulos\n• Conservación total de datos de usuario"
+  },
+  "apkUrl": "https://raw.githubusercontent.com/mystory-app/releases/main/MyStory.apk",
+  "fileSizeBytes": 28907022,
+  "fileSizeFormatted": "27.6 MB",
+  "sha256": "ef3bb1cd92e7da079c6aa38d34fcfe79c59d0811ca323546d81b16354eed5b83",
+  "releaseDate": "2026-10-23",
+  "isMandatory": false,
+  "minSupportedVersionCode": 1
+}

@@ -1,0 +1,86 @@
+{
+  "catalogVersion": 2,
+  "lastUpdated": "2026-10-23",
+  "newStories": [
+    {
+      "id": "remote_story_ant_grasshopper",
+      "titleAr": "النملة الحكيمة والصرصور: درس الاجتهاد والمستقبل",
+      "titleEn": "The Wise Ant and the Grasshopper",
+      "titleFr": "La Fourmi Sage et la Cigale",
+      "titleEs": "La Hormiga Sabia y el Saltamontes",
+      "authorAr": "من أروع حكايات إيسوب التراثية",
+      "authorEn": "Aesop's Classic Fables",
+      "authorFr": "Fables d'Ésope",
+      "authorEs": "Fábulas de Esopo",
+      "summaryAr": "قصة تربوية هادفة عن أهمية العمل الدؤوب والادخار لأوقات الشدة، وكيف ينجو المجتهد وقت الأزمات بينما يندم المتكاسل.",
+      "summaryEn": "A timeless moral fable teaching diligence, foresight, and hard work for the future.",
+      "summaryFr": "Une fable morale intemporelle enseignant la diligence et le travail pour l'avenir.",
+      "summaryEs": "Una fábula moral atemporal que enseña la diligencia y la previsión.",
+      "category": "EDUCATIONAL",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "titleAr": "الفصل الأول: الصيف الحار وموسم العمل",
+          "titleEn": "Chapter 1: The Warm Summer and Labor Season",
+          "titleFr": "Chapitre 1: L'été chaud et le temps du travail",
+          "titleEs": "Capítulo 1: El cálido verano y la temporada de trabajo",
+          "contentAr": "في يوم من أيام الصيف المشرقة، كان الصرصور يغني ويعزف بمرح تحت ظلال الأشجار الوارفة، لا يبالي بالغد ولا يفكر فيما هو آت. وبينما هو يلهو ويقفز، مرت به نملة صغيرة تجر حبة قمح ثقيلة تكاد تفوق وزنها، وهي تلهث من شدة التعب والحر.",
+          "contentEn": "On a bright summer day, a grasshopper was merrily singing and playing in the shade of a lush tree, without a care for the future. Meanwhile, a little ant passed by, straining to carry a heavy grain of wheat to her nest.",
+          "contentFr": "Par une belle journée d'été, une cigale chantait joyeusement à l'ombre d'un grand arbre. Pendant ce temps, une petite fourmi passa, traînant péniblement un lourd grain de blé vers sa fourmilière.",
+          "contentEs": "En un hermoso día de verano, un saltamontes cantaba alegremente a la sombra de un árbol. Mientras tanto, una pequeña hormiga pasaba, arrastrando con esfuerzo un pesado grano de trigo hacia su hormiguero."
+        },
+        {
+          "pageNumber": 2,
+          "titleAr": "الفصل الثاني: نصيحة النملة وعبرة الشتاء",
+          "titleEn": "Chapter 2: The Ant's Advice and the Winter Lesson",
+          "titleFr": "Chapitre 2: Le conseil de la fourmi et la leçon de l'hiver",
+          "titleEs": "Capítulo 2: El consejo de la hormiga y la lección del invierno",
+          "contentAr": "قال الصرصور ضاحكاً: 'لماذا تتعبين نفسكِ في هذا الجو الجميل؟ تعالي لنغني ونستمتع بالدفء!'. فأجابت النملة بحكمة: 'أنا أجمع الطعام لفصل الشتاء القارس، وأنصحك أن تفعل مثلي حتى لا تجوع عندما تتساقط الثلوج'. لم يبالِ الصرصور وتابع لهوه. ولكن عندما حل الشتاء وهبت الرياح العاصفة، وجد الصرصور نفسه وحيداً بلا مأوى ولا طعام، بينما كانت النملة في مسكنها الدافئ تنعم بالخيرات التي جمعتها.",
+          "contentEn": "The grasshopper laughed: 'Why toil on such a lovely day? Come sing and enjoy the warmth!'. The ant replied wisely: 'I am storing food for the harsh winter, and I advise you to do the same.' The grasshopper ignored her. But when winter arrived and frozen winds blew, the grasshopper found himself shivering with hunger, while the ant was warm in her pantry full of provisions.",
+          "contentFr": "La cigale rit: 'Pourquoi te fatiguer par une si belle journée ? Viens chanter avec moi !'. La fourmi répondit avec sagesse: 'J'amasse des provisions pour l'hiver rude.' La cigale l'ignora. Mais quand l'hiver vint et que la neige recouvrit tout, la cigale se retrouva affamée et grelottante, tandis que la fourmi vivait paisiblement dans son abri chaud rempli de vivres.",
+          "contentEs": "El saltamontes se rió: '¿Por qué trabajar tanto en un día tan hermoso? ¡Ven a cantar y disfrutar del calor!'. La hormiga respondió sabiamente: 'Estoy guardando comida para el crudo invierno.' El saltamontes la ignoró. Pero cuando llegó el invierno y el viento helado sopló, el saltamontes se encontró hambriento y aterido de frío, mientras la hormiga descansaba en su cálido hogar con provisiones."
+        }
+      ]
+    },
+    {
+      "id": "remote_story_tortoise_hare",
+      "titleAr": "السلحفاة والأرنب: حكاية الإصرار والتواضع",
+      "titleEn": "The Tortoise and the Hare",
+      "titleFr": "Le Lièvre et la Tortue",
+      "titleEs": "La Liebre y la Tortuga",
+      "authorAr": "من نوادر حكايات التراث العالمي",
+      "authorEn": "Classic World Fables",
+      "authorFr": "Contes classiques du monde",
+      "authorEs": "Fábulas clásicas del mundo",
+      "summaryAr": "حكاية ملهمة تبرهن على أن العزيمة الصادقة والخطى الثابتة تتفوق دائماً على الغرور والتفاخر بالقدرات دون عمل.",
+      "summaryEn": "An inspiring tale proving that slow, steady determination triumphs over boasting and arrogance.",
+      "summaryFr": "Un conte inspirant prouvant que la persévérance régulière triomphe de l'arrogance.",
+      "summaryEs": "Un cuento inspirador que demuestra que la constancia y el esfuerzo vencen a la vanidad.",
+      "category": "EDUCATIONAL",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "titleAr": "الفصل الأول: التحدي في الغابة",
+          "titleEn": "Chapter 1: The Forest Challenge",
+          "titleFr": "Chapitre 1: Le défi dans la forêt",
+          "titleEs": "Capítulo 1: El desafío en el bosque",
+          "contentAr": "كان الأرنب يتفاخر دائماً بسرعته الفائقة أمام جميع حيوانات الغابة، ويسخر من بطء السلحفاة الطيبة. وفي أحد الأيام، ابتسمت السلحفاة وقالت له بهدوء وثقة: 'ما رأيك أن نتسابق إلى أعلى التل المشجر؟'. ضحك الأرنب طويلاً وقال: 'أنتِ تتسابقين معي؟ سيكون هذا أسهل سباق في حياتي!'. واجتمعت حيوانات الغابة لتشهد هذا السباق العجيب.",
+          "contentEn": "The hare was constantly boasting of his speed to all the forest creatures, mocking the gentle tortoise. One day, the tortoise smiled calmly: 'Shall we race to the top of the wooded hill?'. The hare laughed heartily: 'You challenge me? This will be the easiest win of my life!'. All the animals gathered to watch.",
+          "contentFr": "Le lièvre se vantait sans cesse de sa vitesse, se moquant de la tortue. Un jour, la tortue lui proposa calmement une course jusqu'au sommet de la colline. Le lièvre éclata de rire, certain de l'emporter sans effort.",
+          "contentEs": "La liebre presumía constantemente de su velocidad ante todos los animales del bosque. Un día, la tortuga le propuso una carrera hacia la colina. La liebre rió convencida de ganar fácilmente."
+        },
+        {
+          "pageNumber": 2,
+          "titleAr": "الفصل الثاني: خط النهاية ودرس العمر",
+          "titleEn": "Chapter 2: The Finish Line and the Lesson",
+          "titleFr": "Chapitre 2: La ligne d'arrivée et la leçon",
+          "titleEs": "Capítulo 2: La meta y la lección",
+          "contentAr": "انطلق الأرنب بسرعة البرق حتى ابتعد كثيراً، ثم نظر خلفه فلم يجد السلحفاة. فقال في نفسه: 'الجو لطيف والمسافة كبيرة، سآخذ قيلولة قصيرة تحت هذه الشجرة ثم أكمل السباق'. ونام الأرنب نوماً عميقاً. أما السلحفاة فواصلت المشي خطوة بخطوة دون توقف، حتى تجاوزت الأرنب النائم ووصلت إلى خط النهاية وسط هتاف وفرحة الجميع، فاستيقظ الأرنب مذعوراً ليدرك أن التواضع والمثابرة هما سر النجاح الحقيقي.",
+          "contentEn": "The hare sped off like lightning, leaving the tortoise far behind. Feeling confident, he decided to take a nap under a shady tree. While he slept, the tortoise kept walking step by step without resting. She passed the sleeping hare and crossed the finish line to cheers, teaching the hare that perseverance beats complacency.",
+          "contentFr": "Le lièvre partit comme l'éclair, puis s'endormit sous un arbre. Pendant son sommeil, la tortue avança pas à pas sans s'arrêter et franchit la ligne d'arrivée sous les acclamations.",
+          "contentEs": "La liebre corrió velozmente y luego se echó a dormir confiada. Mientras dormía, la tortuga avanzó paso a paso sin rendirse y cruzó la meta ganando la carrera."
+        }
+      ]
+    }
+  ]
+}
