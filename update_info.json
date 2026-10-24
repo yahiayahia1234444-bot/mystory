@@ -1,17 +1,17 @@
 {
-  "versionName": "1.1",
-  "versionCode": 2,
+  "versionName": "1.2",
+  "versionCode": 3,
   "changelog": {
-    "ar": "• تحديث القصص عبر الإنترنت\n• تحسين قارئ القصص\n• دعم أربع لغات\n• الحفاظ على البيانات المحلية",
-    "en": "• Online story updates\n• Improved story reader\n• Support for four languages\n• Preserve local data",
-    "fr": "• Mise à jour des histoires en ligne\n• Lecteur amélioré\n• Prise en charge de quatre langues\n• Conservation des données locales",
-    "es": "• Actualización de historias en línea\n• Lector mejorado\n• Compatibilidad con cuatro idiomas\n• Conservación de los datos locales"
+    "ar": "• تحسينات التطبيق\n• تحسين دعم العمل دون إنترنت\n• الحفاظ على القصص المحفوظة والمفضلة والتنزيلات المحلية",
+    "en": "• App improvements\n• Improved offline support\n• Preserve saved stories, favorites, and downloaded content",
+    "fr": "• Améliorations de l’application\n• Meilleure prise en charge hors ligne\n• Conservation des histoires enregistrées, des favoris et des téléchargements",
+    "es": "• Mejoras de la aplicación\n• Mejor compatibilidad sin conexión\n• Conservación de historias guardadas, favoritos y descargas"
   },
-  "apkUrl": "https://github.com/yahiayahia1234444-bot/mystory/releases/download/v1.1.0/MyStory.apk",
-  "fileSizeBytes": 28907022,
-  "fileSizeFormatted": "27.6 MB",
-  "sha256": "b686c68d6fceae7eff85f30a5896ac2a52eb44b45328055568c2d95d77ad45c3",
-  "releaseDate": "2026-10-23",
+  "apkUrl": "https://github.com/yahiayahia1234444-bot/mystory/releases/download/v1.2.0/MyStory.apk",
+  "fileSizeBytes": 28626125,
+  "fileSizeFormatted": "27.3 MB",
+  "sha256": "a869dbaa506be926894e6724a1defd5ee23e925c2e3d4ece3e195991537c24bf",
+  "releaseDate": "2026-10-24",
   "isMandatory": false,
   "minSupportedVersionCode": 1
 }
