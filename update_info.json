@@ -2,15 +2,15 @@
   "versionName": "1.1",
   "versionCode": 2,
   "changelog": {
-    "ar": "• نظام تحديث داخلي ذكي ومباشر دون الحاجة لمتجر Google Play\n• إمكانية تحديث ومزامنة قصص جديدة عبر الهواء (OTA)\n• تحسين أداء قارئ القصص وإضافة فصول جديدة\n• دعم كامل للغات الأربع مع الحفاظ على كافة البيانات المحلية",
-    "en": "• In-app update system without Google Play dependency\n• Over-The-Air (OTA) dynamic story catalog updates\n• Story reader performance enhancements and chapter splitting\n• Full multi-language support while preserving user data",
-    "fr": "• Système de mise à jour intégrée sans passer par Google Play\n• Mises à jour dynamiques du catalogue d'histoires (OTA)\n• Améliorations du lecteur et des chapitres\n• Sauvegarde intégrale des données utilisateur",
-    "es": "• Sistema de actualización directa en la aplicación sin Google Play\n• Actualizaciones dinámicas de historias por el aire (OTA)\n• Mejoras en el lector de historias y división de capítulos\n• Conservación total de datos de usuario"
+    "ar": "• تحديث القصص عبر الإنترنت\n• تحسين قارئ القصص\n• دعم أربع لغات\n• الحفاظ على البيانات المحلية",
+    "en": "• Online story updates\n• Improved story reader\n• Four language support\n• Preserve local data",
+    "fr": "• Mise à jour des histoires en ligne\n• Lecteur amélioré\n• Prise en charge de quatre langues\n• Conservation des données locales",
+    "es": "• Actualización de historias en línea\n• Lector mejorado\n• Compatibilidad con cuatro idiomas\n• Conservación de datos locales"
   },
-  "apkUrl": "https://raw.githubusercontent.com/mystory-app/releases/main/MyStory.apk",
+  "apkUrl": "https://github.com/yahiayahia1234444-bot/mystory/releases/download/v1.1.0/MyStory.apk",
   "fileSizeBytes": 28907022,
   "fileSizeFormatted": "27.6 MB",
-  "sha256": "ef3bb1cd92e7da079c6aa38d34fcfe79c59d0811ca323546d81b16354eed5b83",
+  "sha256": "b686c68d6fceae7eff85f30a5896ac2a52eb44b45328055568c2d95d77ad45c3",
   "releaseDate": "2026-10-23",
   "isMandatory": false,
   "minSupportedVersionCode": 1
